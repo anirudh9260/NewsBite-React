@@ -13,9 +13,8 @@ NewsBite is a web application that delivers concise news summaries in 60 words o
 - Offline reading capability
 
 ## Screenshots
-![Demo Image 1](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![Demo Image 2](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 ![Demo Image 2](demo_images/inshorts-demo-1.jpg)
+![Demo Image 2](demo_images/inshorts-demo-2.jpg)
 
 
 ## Installation
