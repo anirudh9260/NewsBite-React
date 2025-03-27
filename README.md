@@ -22,7 +22,7 @@ Follow these steps to set up NewsBite locally:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/NewsBite-React.git
+git clone https://github.com/anirudh9260/NewsBite-React.git
 
 ```
 
@@ -32,7 +32,7 @@ cd NewsBite-React
 npm install
 ```
 
-3. Create a .env file in the root directory:
+3. Create a .env file in the root directory (Get a new api key from newsapi.org and paste it here):
 ```bash
 REACT_APP_NEWS_API=your_api_key_here
 ```
